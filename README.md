@@ -32,3 +32,9 @@ Made this model using Yolov5, PyTorch and OpenCV to detect whether a driver is s
 2. Label it using LabelImg
 3. Train the model
 4. Render and display
+
+
+# Reference
+[Youtube](https://www.youtube.com/watch?v=tFNJGim3FXw) <br>
+[UltraLytics YoloV5](https://pytorch.org/hub/ultralytics_yolov5/#:~:text=YOLOv5%20%F0%9F%9A%80%20is%20a%20family,to%20ONNX%2C%20CoreML%20and%20TFLite.)
+[LabelImg](https://github.com/heartexlabs/labelImg)
