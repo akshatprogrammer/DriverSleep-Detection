@@ -17,10 +17,10 @@ Made this model using Yolov5, PyTorch and OpenCV to detect whether a driver is s
 2. Yolov5 : YOLOv5 🚀 is a family of compound-scaled object detection models trained on the COCO dataset, and includes simple functionality for Test Time Augmentation (TTA), model ensembling, hyperparameter evolution, and export to ONNX, CoreML and TFLite
 
 
-(Import them listed below: ) 
-3. Torch (used to load YOLO model and make detection)
-4. matplotlib (for visualizing images)
-5. numpy (strong array transformation)
+(Import them listed below: ) <br>
+3. Torch (used to load YOLO model and make detection) <br> 
+4. matplotlib (for visualizing images) <br>
+5. numpy (strong array transformation) <br>
 6. Cv2 (webcam access)
 
 ## Load Model
@@ -36,5 +36,5 @@ Made this model using Yolov5, PyTorch and OpenCV to detect whether a driver is s
 
 # Reference
 [Youtube](https://www.youtube.com/watch?v=tFNJGim3FXw) <br>
-[UltraLytics YoloV5](https://pytorch.org/hub/ultralytics_yolov5/#:~:text=YOLOv5%20%F0%9F%9A%80%20is%20a%20family,to%20ONNX%2C%20CoreML%20and%20TFLite.)
+[UltraLytics YoloV5](https://pytorch.org/hub/ultralytics_yolov5/#:~:text=YOLOv5%20%F0%9F%9A%80%20is%20a%20family,to%20ONNX%2C%20CoreML%20and%20TFLite.) <br>
 [LabelImg](https://github.com/heartexlabs/labelImg)
